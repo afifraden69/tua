@@ -36,7 +36,7 @@ memperjelas cara kerja dari repositori ini.
 
 Hello Evribadih! This Is A Repository with 2 Tools
 Both Tools are Tools To Crack FB If You Need Tools
-Without Login After You Type "cd old" type "python2 tua.py" and if you
+Without Login After You Type "cd tua" type "python2 tua.py" and if you
 need a Tool which requires users to Login Tokens / Cookies
 After You Type "cd tua" You typed "python2 run.py"
 hopefully this note will explain how this repository works well.
