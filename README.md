@@ -22,6 +22,24 @@ $ python2 tua.py
 
 
 ````
+### Install :
+````bash
+Hello Evribadih ! Ini Merupakan Repositori dengan 2 Tools
+Kedua Toolsnya adalah Script Untuk Crack FB
+Jika Anda membutuhkan Tools Tanpa Login Setelah Anda Ketik "cd tua"
+Anda ketik "python2 tua.py" dan
+jika Anda membutuhkan Tools yang mengharuskan
+pengguna Login Token/Cookies Setelah Anda Ketik "cd tua"
+Anda ketik "python2 run.py"
+demikian catatan ini semoga dapat
+memperjelas cara kerja dari repositori ini.
+Hello Evribadih! This Is A Repository with 2 Tools
+Both Tools are Tools To Crack FB If You Need Tools
+Without Login After You Type "cd old" type "python2 tua.py" and if you
+need a Tool which requires users to Login Tokens / Cookies
+After You Type "cd tua" You typed "python2 run.py"
+hopefully this note will explain how this repository works well.
+````
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Follow-green?style=for-the-badge&logo=github)](https://github.com/Ramdhan7)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/Ramdhan.Ramadhian.ID)
