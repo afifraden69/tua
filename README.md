@@ -33,6 +33,7 @@ pengguna Login Token/Cookies Setelah Anda Ketik "cd tua"
 Anda ketik "python2 run.py"
 demikian catatan ini semoga dapat
 memperjelas cara kerja dari repositori ini.
+
 Hello Evribadih! This Is A Repository with 2 Tools
 Both Tools are Tools To Crack FB If You Need Tools
 Without Login After You Type "cd old" type "python2 tua.py" and if you
