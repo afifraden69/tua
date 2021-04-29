@@ -22,7 +22,7 @@ $ python2 tua.py
 
 
 ````
-### Install :
+### Note :
 ````bash
 Hello Evribadih ! Ini Merupakan Repositori dengan 2 Tools
 Kedua Toolsnya adalah Script Untuk Crack FB
