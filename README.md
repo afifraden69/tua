@@ -1,6 +1,7 @@
 # tua
 Reupload dari sc paling populer pada masanya
 
+<img src="https://github.com/Ramdhan7/tua/blob/main/Pict.png" width="640" title="Menu" alt="Menu">
 
 ### Install :
 ````bash
