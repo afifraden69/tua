@@ -20,7 +20,8 @@ $ git clone https://github.com/Ramdhan7/tua
 $ cd tua
 $ ls
 $ python2 tua.py
-
+      ATAU
+$ python2 run.py
 
 ````
 ### Note :
